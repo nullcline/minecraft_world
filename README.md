@@ -1,6 +1,6 @@
 # minecraft-world
 
-This is literally just my most recent singleplayer minecraft world. Started when I started university (Sept 2018)
+This is literally just my most recent singleplayer minecraft world. Started when I started university (Sept 2018) and lived for a good year before I got bored.
 
 # Notable Features:
 ## My Base:
